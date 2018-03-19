@@ -47,5 +47,4 @@ data(){
 			justify-content: space-around;
 			display: flex;
 			padding: 0 70px;
-
 </style>
